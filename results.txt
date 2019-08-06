@@ -1,0 +1,31 @@
+
+query1 results-
+candidate-is-jerk : 338647
+bears-love-berries : 253801
+bad-things-gone : 170098
+goats-eat-googles : 84906
+trouble-for-troubled : 84810
+balloon-goons-doomed : 84557
+so-many-bears : 84504
+media-obsessed-with-bears : 84383
+candidate-is-jerkx : 161
+candidate-is-jerkq : 155
+candidate-is-jerkh : 152
+candidate-is-jerkr : 148
+candidate-is-jerkg : 147
+candidate-is-jerke : 146
+candidate-is-jerkb : 144
+candidate-is-jerkl : 144
+candidate-is-jerkv : 143
+candidate-is-jerki : 142
+candidate-is-jerkn : 138
+candidate-is-jerkt : 138
+
+query2 results-
+Ursula La Multa : 507594
+Rudolf von Treppenwitz : 423457
+Anonymous Contributor : 170098
+Markoff Chaney : 84557
+
+query3 results-
+2016-07-17 : 2.26269
