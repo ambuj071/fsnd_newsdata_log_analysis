@@ -35,7 +35,8 @@ To load the data, cd into the vagrant directory and use the command:
 psql -d news -f newsdata.sql
 
 ## How to Run
-clone the repository in the vagrant folder and then from inside the repository give the following command-
+Clone the current repository in the vagrant folder and then from inside the repository give the following command-
+
 python solution.py
 
 Sample result is shown in results.txt file
