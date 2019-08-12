@@ -31,8 +31,11 @@ When vagrant up is finished running, you will get your shell prompt back. At thi
   + To load the data, cd into the vagrant directory and use the command: psql -d news -f newsdata.sql
 
 ## How to Run
-Clone the current repository in the vagrant folder and then from inside the repository give the following command-
+Clone the current repository in the vagrant folder
 
+Make sure vagrant is up and user has logged into the VM using "vagrant ssh"
+
+From vagrant directory, CD into the repository and give the following command-
 python solution.py
 
 Sample result is shown in results.txt file
