@@ -12,8 +12,8 @@ c.  On which days did more than 1% of requests lead to errors?
 
 ## Prerequisites
 * Python 3:
-Download and install Python3 from this link-
-https://www.python.org/downloads/release/python-374/
+  + Download and install Python3 from this link-
+  + https://www.python.org/downloads/release/python-374/
 * VirtualBox 3:
 Install VirtualBox3 from here-
 https://downloads.tomsguide.com/VirtualBox,0301-7671.html 
