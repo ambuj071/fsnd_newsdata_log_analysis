@@ -40,5 +40,11 @@ python solution.py
 
 Sample result is shown in results.txt file
 
+## Authors
+* Ambuj Agrawal
+
+## Acknowledgements
+* Udacity for providing the newsdata database and instructions for installing/running the VM
+
 
 
